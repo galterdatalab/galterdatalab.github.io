@@ -10,6 +10,5 @@ If you have any questions about us or how we can help, please email us at datala
 
 * [About](pages/about.md)
 * [Training](pages/training.md)
-* [User Guidebook](pages/user_guidebook.md)
 * [FAQs](pages/faqs.md)
 * [Provide Feedback](pages/provide_feedback.md)
