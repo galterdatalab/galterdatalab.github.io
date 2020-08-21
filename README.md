@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the Galter DataLab
 
-You can use the [editor on GitHub](https://github.com/galterdatalab/galterdatalab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Our Mission
+We are focused on training & development, collaborative innovation, and connecting faculty, staff, and students in the Feinberg School of Medicine to data-related resources here at Northwestern. Through our free DataClinic service, we provide consultation and training for all stages of the research data life cycle. We engage the research community by hosting and sponsoring events that promote best practices related to reproducibility and openness in the sciences. We are developing a next-generation repository and data index system that will help scientists across the clinical and translational spectrum to locate tools, data, and expertise that will enhance their research process.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The DataLab is managed and supported by the [Galter HSL & Learning Center at Northwestern University](https://galter.northwestern.edu/).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/galterdatalab/galterdatalab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+If you have any questions about us or how we can help, please email us at datalab@northwestern.edu.
